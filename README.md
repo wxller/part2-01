@@ -32,6 +32,7 @@
    yarn 
    yarn add gulp --dev
    gulpfile.js  构建任务
+   具体代码详见pages-boilerplate
 ## 3、使用 Grunt 完成项目的自动化构建
  详见 grunt-demo
 
@@ -48,16 +49,3 @@
     安装处理文件修改时监听改变插件
     yarn add grunt-contrib-watch --dev
 
-
-2-3 题项目基础代码下载地址：
-
-百度网盘：https://pan.baidu.com/s/1AyGApMTFEfCeGfQBdykOGg 提取码: bw3r
-
-说明：
-本次作业中的编程题要求大家完成相应代码后（二选一）
-
-1.  简单录制一个小视频介绍一下实现思路，并演示一下相关功能。
-
-2.  提交一个项目说明文档，要求思路流程清晰。
-
-最终将录制的视频或说明文档和代码统一提交至作业仓库。
